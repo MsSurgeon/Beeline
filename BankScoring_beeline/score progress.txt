@@ -1,0 +1,14 @@
+Score: 0.71288293827, CLF: Nearest Neighbors, CLF_BestParm: {'n_neighbors': 70}
+Score: 0.829605806562, CLF: Decision Tree, CLF_BestParm: {'max_depth': 5, 'min_samples_leaf': 1}
+Score: 0.839493372784, CLF: Random Forest, CLF_BestParm: {'n_estimators': 20, 'max_depth': 4, 'min_samples_leaf': 4}
+Score: 0.686730064722, CLF: LogisticRegression, CLF_BestParm: {'C': 1000}
+
+
+Score: 0.71288293827, CLF: Nearest Neighbors, CLF_BestParm: {'n_neighbors': 70}
+Score: 0.829605806562, CLF: Decision Tree, CLF_BestParm: {'max_depth': 5, 'min_samples_leaf': 1}
+Score: 0.840842517643, CLF: Random Forest, CLF_BestParm: {'n_estimators': 25, 'max_depth': 4, 'min_samples_leaf': 4}
+Score: 0.686730064722, CLF: LogisticRegression, CLF_BestParm: {'C': 1000}
+
+Score: 0.829143778949, CLF: Decision Tree, CLF_BestParm: {'max_depth': 5, 'min_samples_leaf': 1}
+Score: 0.839491455982, CLF: Random Forest, CLF_BestParm: {'n_estimators': 25, 'max_depth': 4, 'min_samples_leaf': 2}
+
